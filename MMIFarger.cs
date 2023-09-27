@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using Autodesk.DesignScript.Runtime;
 using DSCore;
 
-namespace MultiNodes
+namespace MMI
 {
     public class MMIFarger
     {
